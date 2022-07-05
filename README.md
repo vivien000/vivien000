@@ -1,6 +1,6 @@
 ### 👋 Hi there. I'm Vivien, a Paris-based engineer passionate about machine learning.
 
-### 💬 [Blog Posts](https://vivien000.github.io/blog/)
+### 💬 [Blog posts](https://vivien000.github.io/blog/)
 - [Adding text (really) inside pictures and videos](https://vivien000.github.io/blog/journal/adding-text-inside-pictures-and-videos.html)
 - [Simulating Depth Perception with Face Tracking](https://vivien000.github.io/blog/journal/motion-parallax-with-face-tracking.html)
 - [What Are the Ethical Risks of Your AI Project? ](https://vivien000.github.io/blog/journal/ethical-risks-ai-project.html)
