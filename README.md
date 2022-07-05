@@ -7,7 +7,7 @@
 - [Learning through Auxiliary Tasks](https://vivien000.github.io/blog/journal/learning-though-auxiliary_tasks.html)
 
 ### ⚡ [ML demos](https://huggingface.co/vivien)
-- [3D in your browser](https://huggingface.co/spaces/vivien/trompeloeil)
+- [3D in your browser](https://huggingface.co/spaces/vivien/trompeloeil) (webcam needed)
 - [CLIP demo](https://huggingface.co/spaces/vivien/clip)
 - [Comparing CLIP and SLIP](https://huggingface.co/spaces/vivien/clip-slip)
 - [Depth-aware text addition](https://huggingface.co/spaces/vivien/depth-aware-caption)
