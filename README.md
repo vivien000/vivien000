@@ -9,6 +9,7 @@
 ### ⚡ [ML demos](https://huggingface.co/vivien)
 - [3D in your browser](https://huggingface.co/spaces/vivien/trompeloeil) (webcam needed)
 - [CLIP demo](https://huggingface.co/spaces/vivien/clip)
+- [Combining CLIP and OWL-ViT](https://huggingface.co/spaces/vivien/clip-owlvit)
 - [Comparing CLIP and SLIP](https://huggingface.co/spaces/vivien/clip-slip)
 - [Depth-aware text addition](https://huggingface.co/spaces/vivien/depth-aware-caption)
 - [Zero-shot classification with GPT2](https://huggingface.co/spaces/vivien/zero-shot-classifier-GPT2-2)
