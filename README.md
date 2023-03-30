@@ -1,6 +1,10 @@
 ### 👋 Hi there. I'm Vivien, a Paris-based engineer passionate about machine learning.
 
 ### 💬 [Blog posts](https://vivien000.github.io/blog/)
+- [No Training Data? No Problem! Locating Objects in Pictures With Little to No Training Examples](https://medium.com/data-from-the-trenches/no-training-data-no-problem-f245ad73e7e7)
+- [Digging Through the Minutiae: Query Your Documents With GPT-3](https://medium.com/data-from-the-trenches/digging-through-the-minutiae-query-your-documents-with-gpt-3-c4600635a55)
+- [Leveraging Joint Text-Image Models to Search and Classify Images](https://medium.com/data-from-the-trenches/leveraging-joint-text-image-models-to-search-and-classify-images-36c87091ff02)
+- [Semantic Search: An Overlooked NLP Superpower](https://medium.com/data-from-the-trenches/semantic-search-an-overlooked-nlp-superpower-b67c4b1b119a)
 - [Adding Text (really) inside Pictures and Videos](https://vivien000.github.io/blog/journal/adding-text-inside-pictures-and-videos.html)
 - [Simulating Depth Perception with Face Tracking](https://vivien000.github.io/blog/journal/motion-parallax-with-face-tracking.html)
 - [What Are the Ethical Risks of Your AI Project? ](https://vivien000.github.io/blog/journal/ethical-risks-ai-project.html)
