@@ -1,6 +1,7 @@
 ### 👋 Hi there. I'm Vivien, a Paris-based engineer passionate about machine learning.
 
 ### 💬 [Blog posts](https://vivien000.github.io/blog/)
+- [Better Steering LLM Agents with LMQL](https://vivien000.github.io/blog/journal/better-steering-LLM-agents-with-LMQL.html)
 - [No Training Data? No Problem! Locating Objects in Pictures With Little to No Training Examples](https://medium.com/data-from-the-trenches/no-training-data-no-problem-f245ad73e7e7)
 - [Digging Through the Minutiae: Query Your Documents With GPT-3](https://medium.com/data-from-the-trenches/digging-through-the-minutiae-query-your-documents-with-gpt-3-c4600635a55)
 - [Leveraging Joint Text-Image Models to Search and Classify Images](https://medium.com/data-from-the-trenches/leveraging-joint-text-image-models-to-search-and-classify-images-36c87091ff02)
