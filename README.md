@@ -1,7 +1,8 @@
 ### 👋 Hi there. I'm Vivien, a Paris-based engineer passionate about machine learning.
 
-### 💬 [Blog posts](https://vivien000.github.io/blog/)
+### 💬 Blog posts ([personal blog](https://vivien000.github.io/blog/), [Medium](https://medium.com/@lively_amaranth_zebra_430)) and primers
 - [Better Steering LLM Agents with LMQL](https://vivien000.github.io/blog/journal/better-steering-LLM-agents-with-LMQL.html)
+- [Introduction to Large Language Models with Dataiku](https://content.dataiku.com/llms-dataiku)
 - [7 Text Classification Techniques for Any Scenario](https://medium.com/data-from-the-trenches/7-text-classification-techniques-for-any-scenario-be428ea68b71)
 - [No Training Data? No Problem! Locating Objects in Pictures With Little to No Training Examples](https://medium.com/data-from-the-trenches/no-training-data-no-problem-f245ad73e7e7)
 - [Digging Through the Minutiae: Query Your Documents With GPT-3](https://medium.com/data-from-the-trenches/digging-through-the-minutiae-query-your-documents-with-gpt-3-c4600635a55)
