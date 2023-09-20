@@ -19,7 +19,6 @@
 - [Combining CLIP and OWL-ViT](https://huggingface.co/spaces/vivien/clip-owlvit)
 - [Comparing CLIP and SLIP](https://huggingface.co/spaces/vivien/clip-slip)
 - [Depth-aware text addition](https://huggingface.co/spaces/vivien/depth-aware-caption)
-- [Zero-shot classification with GPT2](https://huggingface.co/spaces/vivien/zero-shot-classifier-GPT2-2)
 - [Semantic search](https://huggingface.co/spaces/vivien/semanticsearch)
 - [Causal simulator](https://huggingface.co/spaces/vivien/causal-simulator)
 
