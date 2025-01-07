@@ -1,6 +1,8 @@
 ### 👋 Hi there. I'm Vivien, a Paris-based engineer passionate about machine learning.
 
 ### 💬 Blog posts ([personal blog](https://vivien000.github.io/blog/), [Medium](https://medium.com/@lively_amaranth_zebra_430))
+- [Accelerating LLM Code Generation Through Mask Store Streamlining](https://vivien000.github.io/blog/journal/grammar-llm-decoding.html)
+- [Taming LLM Outputs: Your Guide to Structured Text Generation](https://medium.com/data-from-the-trenches/taming-llm-outputs-59a58ee3246d)
 - [Fast, High-Fidelity LLM Decoding with Regex Constraints ](https://vivien000.github.io/blog/journal/llm-decoding-with-regex-constraints.html)
 - [Standing on the Shoulders of a Giant: Leveraging the Web to Answer Open-Ended Questions](https://medium.com/data-from-the-trenches/standing-on-the-shoulders-of-a-giant-cefe2a50881a)
 - [An Optimal Lossy Variant of Speculative Decoding](https://vivien000.github.io/blog/journal/a-provably-optimal-lossy-variant-of-speculative-decoding.html)
